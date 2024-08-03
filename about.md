@@ -1,3 +1,10 @@
+Casual users should not download this. It does nothing.
+
+This does not mean if you found this mod in your downloaded list then you should remove it. Other mods might depends on this
+
+------
+
+
 hey uhh 
 
 have you ever wonder "chat how the heck do i automatically put my node to the top right corner without trying to get the parent size every update" 
