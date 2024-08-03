@@ -1,0 +1,26 @@
+{
+    "geode": "3.4.0",
+    "gd": {
+        "win": "2.206",
+        "android": "2.206",
+        "mac": "2.206",
+        "ios": "2.206"
+    },
+    "id": "henrysck075.reactiveui",
+    "name": "ReactiveUI",
+    "version": "v0.2.206",
+    "developer": "henrysck075",
+    "description": "",
+    "dependencies": [
+        {
+        "id": "henrysck075.cocosutils",
+        "version": ">=v0.0.7",
+        "importance": "required"
+        }
+    ],
+    "api": {
+        "include": [
+            "include/*.hpp"
+        ]
+    }
+}
